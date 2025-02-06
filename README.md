@@ -18,5 +18,6 @@
 
 ```bash
 docker build -t flutter-rust-bridge .
+```
 
 以上内容由Deepseek生成
